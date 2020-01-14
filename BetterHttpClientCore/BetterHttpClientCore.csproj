@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+	<Version>1.0.7.3</Version>
+    <Authors>Yozer, TheBitBrine</Authors>
+    <Description>Port of https://www.nuget.org/packages/BetterHttpClient/ to .NET Standard 2.1</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>
